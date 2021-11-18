@@ -1,0 +1,22 @@
+.logo {
+	&__inner {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	&__img {
+		max-width: 235px;
+	}
+	&_substate {
+		.logo__inner {
+			background-color: $color_pale;
+			position: relative;
+			z-index: 1;
+			padding: 15px 30px;
+
+			@include bp768-block() {
+				padding: 40px 120px;
+			}
+		}
+	}
+}

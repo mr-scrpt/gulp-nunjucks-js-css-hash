@@ -1,0 +1,2 @@
+const e=1;
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0YXJ0LmpzIl0sIm5hbWVzIjpbImUiXSwibWFwcGluZ3MiOiJBQUFBLE1BQUFBLEVBQUEiLCJmaWxlIjoiYnVuZGxlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgZSA9IDE7XHJcbiJdfQ==

@@ -1,0 +1,14 @@
+/* COLORS */
+
+$color_base: #59585e;
+$color_active: #bf6363;
+$color_passive: #e0a9b0;
+$color_passive_op: rgba($color_passive, 0.8);
+$color_pale: #eedede;
+$color_light: #f2f6f5;
+$color_dark: darken($color_light, 5%);
+$color_white: #fff;
+
+/* TIME*/
+
+$th: 0.25s;
